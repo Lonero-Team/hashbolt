@@ -37,7 +37,7 @@ copyright: Copyright &copy; 2018-2021 The Lonero Team
 
 # Configuration
 theme:
-  name: null
+  name: material
   custom_dir: material
 
   # 404 page
