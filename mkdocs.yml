@@ -19,25 +19,25 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: HashBolt
-site_url: https://lenero-team.github.io/hashbolt
-site_author: Andrew Kamal
+site_name: Material for MkDocs
+site_url: https://squidfunk.github.io/mkdocs-material/
+site_author: Martin Donath
 site_description: >-
   Create a branded static site from a set of Markdown files to host the
   documentation of your Open Source or commercial project – customizable,
   searchable, mobile-friendly, 40+ languages
 
 # Repository
-repo_name: hashbolt
-repo_url: https://github.com/lonero-team/hashbolt
+repo_name: squidfunk/mkdocs-material
+repo_url: https://github.com/squidfunk/mkdocs-material
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2018-2021 The Lonero Team
+copyright: Copyright &copy; 2016 - 2021 Martin Donath
 
 # Configuration
 theme:
-  name:
+  name: null
   custom_dir: material
 
   # 404 page
@@ -90,7 +90,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/lonero-team
+      link: https://github.com/squidfunk
     - icon: fontawesome/brands/gitter
       link: https://gitter.im/squidfunk/mkdocs-material
     - icon: fontawesome/brands/docker
