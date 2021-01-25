@@ -168,9 +168,8 @@ directory:
 
 Then, e.g. to override the site title, add the following line to `main.html`:
 
-``` html
+```html
 {% extends "base.html" %}
-
 {% block htmltitle %}
   <title>Lorem ipsum dolor sit amet</title>
 {% endblock %}
