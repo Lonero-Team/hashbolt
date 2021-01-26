@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://lonero-team.github.io/hashbolt">
-    <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/banner.png" width="840" alt="Hashbolt Banner">
+  <a href="https://lonero.org/hashbolt">
+    <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/banner.png" width="840" alt="Hashbolt">
   </a>
 </p>
 
