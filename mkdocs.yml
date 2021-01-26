@@ -145,7 +145,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Intro: index.md
-  - Getting started:
+  - Abstract:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
     - Publishing your site: publishing-your-site.md
