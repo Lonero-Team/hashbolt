@@ -23,7 +23,7 @@ site_name: HashBolt
 site_url: https://lonero-team.github.io/hashbolt/
 site_author: Andrew Kamal
 site_description: >-
-  Cryptographic hashing created for the next generation of blockchains.
+  Cryptographic hashing created for the next generation of blockchains
 
 # Repository
 repo_name: lonero-team/hashbolt
