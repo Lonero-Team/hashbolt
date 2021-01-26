@@ -144,7 +144,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - Intro: index.md
   - Getting started:
     - Installation: getting-started.md
     - Creating your site: creating-your-site.md
@@ -154,7 +154,7 @@ nav:
     - Data privacy: data-privacy.md
     - Insiders: insiders.md
     - License: license.md
-  - Setup:
+  - Mathematics:
     - Changing the colors: setup/changing-the-colors.md
     - Changing the fonts: setup/changing-the-fonts.md
     - Changing the language: setup/changing-the-language.md
@@ -167,7 +167,7 @@ nav:
     - Setting up the footer: setup/setting-up-the-footer.md
     - Adding a git repository: setup/adding-a-git-repository.md
     - Adding a comment system: setup/adding-a-comment-system.md
-  - Reference:
+  - Cryptography:
     - Abbreviations: reference/abbreviations.md
     - Admonitions: reference/admonitions.md
     - Buttons: reference/buttons.md
@@ -183,10 +183,10 @@ nav:
     - MathJax: reference/mathjax.md
     - Meta tags: reference/meta-tags.md
     - Variables: reference/variables.md
-  - Changelog:
+  - Computing Pipeline:
     - Material for MkDocs: changelog.md
     - Material for MkDocs Insiders: changelog/insiders.md
-    - Guides:
+    - Further Reading:
       - Upgrading: upgrading.md
       - Deprecations: deprecations.md
 
