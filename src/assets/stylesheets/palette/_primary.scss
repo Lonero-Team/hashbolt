@@ -76,7 +76,7 @@
   --md-primary-bg-color--light:        hsla(0, 0%, 0%, 0.54);
 
   // Typeset color shades
-  --md-typeset-a-color:                hsla(#{hex2hsl($clr-indigo-500)}, 1);
+  --md-typeset-a-color:                hsla(#{hex2hsl($clr-blue-500)}, 1);
 
   // [tablet portrait +]: Header-embedded search
   @include break-from-device(tablet landscape) {
