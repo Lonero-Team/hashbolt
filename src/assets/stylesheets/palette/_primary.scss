@@ -155,12 +155,6 @@
     }
   }
 
-  :root {
-  --md-primary-fg-color:        #007bff;
-  --md-primary-fg-color--light: #007bff;
-  --md-primary-fg-color--dark:  #007bff;
-}
-
   // [tablet -]: Layered navigation
   @include break-to-device(tablet) {
 
