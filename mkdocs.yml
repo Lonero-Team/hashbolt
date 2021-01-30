@@ -144,14 +144,14 @@ markdown_extensions:
 nav:
   - Intro: index.md
   - Abstract:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Troubleshooting: troubleshooting.md
-    - Data privacy: data-privacy.md
-    - Insiders: insiders.md
-    - License: license.md
+    - About: getting-started.md
+    - Premise: creating-your-site.md
+    - Abstract: publishing-your-site.md
+    - Introduction: customization.md
+#    - Troubleshooting: troubleshooting.md
+#    - Data privacy: data-privacy.md
+#    - Insiders: insiders.md
+#    - License: license.md
   - Mathematics:
     - Changing the colors: setup/changing-the-colors.md
     - Changing the fonts: setup/changing-the-fonts.md
