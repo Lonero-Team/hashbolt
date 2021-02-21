@@ -153,7 +153,7 @@ nav:
 #    - Insiders: insiders.md
 #    - License: license.md
   - Mathematics:
-    - Theory: setup/changing-the-colors.md
+    - Intro: setup/changing-the-colors.md
     - Proofs: setup/changing-the-fonts.md
     - Concepts: setup/changing-the-language.md
     - The Logic: setup/changing-the-logo-and-icons.md
@@ -166,21 +166,21 @@ nav:
 #    - Adding a git repository: setup/adding-a-git-repository.md
 #    - Adding a comment system: setup/adding-a-comment-system.md
   - Cryptography:
-    - Abbreviations: reference/abbreviations.md
-    - Admonitions: reference/admonitions.md
-    - Buttons: reference/buttons.md
-    - Code blocks: reference/code-blocks.md
-    - Content tabs: reference/content-tabs.md
-    - Data tables: reference/data-tables.md
-    - Diagrams: reference/diagrams.md
-    - Footnotes: reference/footnotes.md
-    - Formatting: reference/formatting.md
-    - Icons + Emojis: reference/icons-emojis.md
-    - Images: reference/images.md
-    - Lists: reference/lists.md
-    - MathJax: reference/mathjax.md
-    - Meta tags: reference/meta-tags.md
-    - Variables: reference/variables.md
+    - P2P: reference/abbreviations.md
+    - Hashing: reference/admonitions.md
+    - Ring Signatures: reference/buttons.md
+    - Masternodes and Consensus: reference/code-blocks.md
+    - Encryption and Cryptography Schemes: reference/content-tabs.md
+    - Data Integration, Theory and Hashgraphs: reference/data-tables.md
+#    - Diagrams: reference/diagrams.md
+#    - Footnotes: reference/footnotes.md
+#    - Formatting: reference/formatting.md
+#    - Icons + Emojis: reference/icons-emojis.md
+#    - Images: reference/images.md
+#    - Lists: reference/lists.md
+    - Software Defined Networking Integrations: reference/mathjax.md
+#    - Meta tags: reference/meta-tags.md
+#    - Variables: reference/variables.md
   - Computing Pipeline:
     - Material for MkDocs: changelog.md
     - Material for MkDocs Insiders: changelog/insiders.md
