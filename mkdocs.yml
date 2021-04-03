@@ -146,7 +146,7 @@ nav:
   - Abstract:
     - About: about.md
     - Premise: premise.md
-    - Abstract: publishing-your-site.md
+    - Abstract: abstract.md
     - Introduction: customization.md
 #    - Troubleshooting: troubleshooting.md
 #    - Data privacy: data-privacy.md
