@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Code blocks
+# Masternodes and Consensus
 
 Code blocks and examples are an essential part of technical project
 documentation. Material for MkDocs provides different ways to set up syntax
