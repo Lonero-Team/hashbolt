@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Admonitions
+# Hashing
 
 Admonitions, also known as _call-outs_, are an excellent choice for including
 side content without significantly interrupting the document flow. Material for
