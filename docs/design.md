@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Upgrading
+# Design
 
 Upgrade to the latest version with:
 
