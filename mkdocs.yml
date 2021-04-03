@@ -144,7 +144,7 @@ markdown_extensions:
 nav:
   - Intro: intro.md
   - Abstract:
-    - About: getting-started.md
+    - About: about.md
     - Premise: creating-your-site.md
     - Abstract: publishing-your-site.md
     - Introduction: customization.md
