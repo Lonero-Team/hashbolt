@@ -142,7 +142,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Intro: index.md
+  - Intro: intro.md
   - Abstract:
     - About: getting-started.md
     - Premise: creating-your-site.md
