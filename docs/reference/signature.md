@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Buttons
+# Ring Signatures
 
 Material for MkDocs provides dedicated styles for primary and secondary buttons
 that can be added to any link, `label` or `button` element. This is especially
