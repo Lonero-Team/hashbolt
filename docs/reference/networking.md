@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# MathJax
+# Software Defined Networking Integrations
 
 [MathJax][1] is a beautiful and accessible way to display _mathematical content_
 in the browser, allows for writing formulas in different notations, including 
