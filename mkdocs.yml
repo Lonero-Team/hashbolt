@@ -142,7 +142,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Intro: intro.md
+  - Intro: index.md
   - Abstract:
     - About: about.md
     - Premise: premise.md
