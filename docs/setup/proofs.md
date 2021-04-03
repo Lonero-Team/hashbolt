@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Changing the fonts
+# Proofs
 
 Material for MkDocs makes it easy to change the typeface of your project
 documentation, as it directly integrates with [Google Fonts][1]. Alternatively,
