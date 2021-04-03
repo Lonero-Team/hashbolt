@@ -147,46 +147,46 @@ nav:
     - About: about.md
     - Premise: premise.md
     - Abstract: abstract.md
-    - Introduction: customization.md
+    - Introduction: introduction.md
 #    - Troubleshooting: troubleshooting.md
 #    - Data privacy: data-privacy.md
 #    - Insiders: insiders.md
 #    - License: license.md
   - Mathematics:
-    - Intro: setup/changing-the-colors.md
-    - Proofs: setup/changing-the-fonts.md
-    - Concepts: setup/changing-the-language.md
-    - The Logic: setup/changing-the-logo-and-icons.md
-    - Euclidean Geometry: setup/setting-up-navigation.md
-    - Understanding Schemes: setup/setting-up-site-search.md
-    - Considering Some Variables: setup/setting-up-site-analytics.md
+    - Intro: setup/intro.md
+    - Proofs: setup/proofs.md
+    - Concepts: setup/concepts.md
+    - The Logic: setup/logic.md
+    - Euclidean Geometry: setup/geometry.md
+    - Understanding Schemes: setup/schemes.md
+    - Considering Some Variables: setup/variables.md
 #    - Setting up versioning: setup/setting-up-versioning.md
 #    - Setting up the header: setup/setting-up-the-header.md
 #    - Setting up the footer: setup/setting-up-the-footer.md
 #    - Adding a git repository: setup/adding-a-git-repository.md
 #    - Adding a comment system: setup/adding-a-comment-system.md
   - Cryptography:
-    - P2P: reference/abbreviations.md
-    - Hashing: reference/admonitions.md
-    - Ring Signatures: reference/buttons.md
-    - Masternodes and Consensus: reference/code-blocks.md
-    - Encryption and Cryptography Schemes: reference/content-tabs.md
-    - Data Integration, Theory and Hashgraphs: reference/data-tables.md
+    - P2P: reference/p2p.md
+    - Hashing: reference/hashing.md
+    - Ring Signatures: reference/signature.md
+    - Masternodes and Consensus: reference/consensus.md
+    - Encryption and Cryptography Schemes: reference/encryption.md
+    - Data Integration, Theory and Hashgraphs: reference/hashgraphs.md
 #    - Diagrams: reference/diagrams.md
 #    - Footnotes: reference/footnotes.md
 #    - Formatting: reference/formatting.md
 #    - Icons + Emojis: reference/icons-emojis.md
 #    - Images: reference/images.md
 #    - Lists: reference/lists.md
-    - Software Defined Networking Integrations: reference/mathjax.md
+    - Software Defined Networking Integrations: reference/networking.md
 #    - Meta tags: reference/meta-tags.md
 #    - Variables: reference/variables.md
   - Computing Pipeline:
-    - Material for MkDocs: changelog.md
-    - Material for MkDocs Insiders: changelog/insiders.md
-    - Further Reading:
-      - Upgrading: upgrading.md
-      - Deprecations: deprecations.md
+    - Systems: systems.md
+    - Hardware: changelog/hardware.md
+    - Architecture:
+      - Design: design.md
+      - Systems: architectures.md
 
 # Google Analytics
 # google_analytics:
