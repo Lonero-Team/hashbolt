@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Customization
+# Introduction
 
 Project documentation is as diverse as the projects themselves and Material for
 MkDocs is a great starting point for making it look beautiful. However, as you
