@@ -145,7 +145,7 @@ nav:
   - Intro: intro.md
   - Abstract:
     - About: about.md
-    - Premise: creating-your-site.md
+    - Premise: premise.md
     - Abstract: publishing-your-site.md
     - Introduction: customization.md
 #    - Troubleshooting: troubleshooting.md
