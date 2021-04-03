@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Abbreviations
+# P2P
 
 Technical documentation often incurs the usage of a lot of acronyms, which may
 need additional explanation, especially for new user of your project. For these
