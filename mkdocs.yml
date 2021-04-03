@@ -90,7 +90,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Lonero-Team
     - icon: fontawesome/brands/gitter
-      link: https://gitter.im/squidfunk/mkdocs-material
+      link: https://gitter.im/Decentralized-Internet
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     - icon: fontawesome/brands/twitter
