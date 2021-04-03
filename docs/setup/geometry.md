@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Setting up navigation
+# Euclidean Geometry
 
 A clear and concise navigation structure is an important aspect of good project 
 documentation. Material for MkDocs provides a multitude of options to configure
