@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Changing the logo and icons
+# Logic
 
 When installing Material for MkDocs, you immediately get access to _over 7.000 
 icons_ ready to be used for customization of specific parts of the theme and/or 
