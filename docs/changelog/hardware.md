@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Changelog
+# Hardware
 
 ## Material for MkDocs Insiders
 
