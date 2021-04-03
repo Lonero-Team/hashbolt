@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Content tabs
+# Encryption and Cryptography Schemes
 
 Sometimes, it's desirable to group alternative content under different tabs,
 e.g. when describing how to access an API from different languages or
