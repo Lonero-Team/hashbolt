@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Changing the language
+# Concepts
 
 Material for MkDocs supports internationalization (i18n) and provides
 translations for template variables and labels in 40+ languages. Additionally,
