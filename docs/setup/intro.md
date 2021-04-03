@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Changing the colors
+# Intro
 
 As any proper Material Design implementation, Material for MkDocs supports
 Google's original [color palette][1], which can be easily configured through 
