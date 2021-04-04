@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Premise
 
+---
+
 After you've [installed][1] Material for MkDocs, you can bootstrap your project 
 documentation using the `mkdocs` executable. Go to the directory where you want
 your project to be located and enter:
