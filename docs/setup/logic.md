@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # The Logic
 
+---
+
 When installing Material for MkDocs, you immediately get access to _over 7.000 
 icons_ ready to be used for customization of specific parts of the theme and/or 
 when writing your documentation in Markdown. Not enough? You can also [add
