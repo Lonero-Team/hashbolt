@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Masternodes and Consensus
 
+---
+
 Code blocks and examples are an essential part of technical project
 documentation. Material for MkDocs provides different ways to set up syntax
 highlighting for code blocks, either during build time using [Pygments][1] or
