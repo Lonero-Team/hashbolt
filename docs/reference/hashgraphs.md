@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Data Integration, Theory and Hashgraphs
 
+---
+
 Material for MkDocs defines default styles for data tables – an excellent way
 of rendering tabular data in project documentation. Furthermore, customizations
 like [sortable tables][1] can be achieved with a third-party library and some
