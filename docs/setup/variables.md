@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Considering Some Variables
 
+---
+
 As with any other service offered on the web, understanding how your project
 documentation is actually used can be an essential success factor. While
 Material for MkDocs natively integrates with [Google Analytics][1], [other
