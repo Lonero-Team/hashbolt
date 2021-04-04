@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Abstract
 
+---
+
 The great thing about hosting project documentation in a `git` repository is
 the ability to deploy it automatically when new changes are pushed. MkDocs
 makes this ridiculously simple.
