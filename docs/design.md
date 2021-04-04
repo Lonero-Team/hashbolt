@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Design
 
+---
+
 Upgrade to the latest version with:
 
 ```
