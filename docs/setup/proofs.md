@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Proofs
 
+---
+
 Material for MkDocs makes it easy to change the typeface of your project
 documentation, as it directly integrates with [Google Fonts][1]. Alternatively,
 fonts can be custom-loaded if self-hosting is preferred for data privacy reasons
