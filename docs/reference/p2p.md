@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # P2P
 
+---
+
 Technical documentation often incurs the usage of a lot of acronyms, which may
 need additional explanation, especially for new user of your project. For these
 matters, Material for MkDocs uses a combination of Markdown extensions to
