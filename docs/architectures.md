@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Systems
 
+---
+
 This page includes a list of deprecations, indicating which features of Material
 for MkDocs were replaced with newer, more flexible alternatives, and thus should
 not be used anymore.
