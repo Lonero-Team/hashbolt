@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Concepts
 
+---
+
 Material for MkDocs supports internationalization (i18n) and provides
 translations for template variables and labels in 40+ languages. Additionally,
 the site search can be configured to use a language-specific stemmer (if
