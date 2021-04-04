@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Understanding Schemes
 
+---
+
 Material for MkDocs provides an excellent, client-side search implementation,
 omitting the need for the integration of third-party services, which might
 be tricky to integrate to be compliant with data privacy regulations. Moreover,
