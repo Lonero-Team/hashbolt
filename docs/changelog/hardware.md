@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Hardware
 
+---
+
 ## Material for MkDocs Insiders
 
 ### 1.16.0 <small>_ January 7, 2021</small>
