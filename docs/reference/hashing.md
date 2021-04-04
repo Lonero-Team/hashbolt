@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Hashing
 
+---
+
 Admonitions, also known as _call-outs_, are an excellent choice for including
 side content without significantly interrupting the document flow. Material for
 MkDocs provides several different types of admonitions and allows for the
