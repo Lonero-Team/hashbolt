@@ -5,6 +5,7 @@ title: About
 
 # About
 
+---
 Material for MkDocs is a theme for [MkDocs][1], a static site generator geared
 towards (technical) project documentation. If you're familiar with Python, you
 can install Material for MkDocs with [`pip`][2], the Python package manager.
