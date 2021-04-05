@@ -3,6 +3,7 @@ template: overrides/main.html
 ---
 
 # Abstract
+Current masternodes are incredibly inefficient and non-adaptable. Lonero's HashBolt aims to be a different type of masternode system. While people are mining, masternodes have the opportunity to work on making the network less congested. This is in part due to holding LNR for a certain time period and thus recieving more rewards. Lonero's mining system eventually wants to adapt to an experimental *"Proof of Computation"* mining algorithm so that everybody can participate in the network. Through a shared ecosystem, HashBolt's mechanism helps prevent giant fees, a slow network, and large wait times.
 
 ---
 
