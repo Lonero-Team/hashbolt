@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Intro
 
+There are lots of mathematical implications in regards to HashBolt and how it will work. These implications include network latency, novel proofs, and even proofs regarding its integration within Lonero's overall network. Due to this, many variables will need to be taken into consideration.
+
 ---
 
 As any proper Material Design implementation, Material for MkDocs supports
