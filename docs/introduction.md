@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Introduction
 
+There are many technological implecations for HashBolt to work. This includes everything from design, architecture, cryptography and overall network. These many implecations or different specifications is what will make HashBolt unique.
+
 ---
 
 Project documentation is as diverse as the projects themselves and Material for
