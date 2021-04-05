@@ -3,7 +3,7 @@ template: overrides/main.html
 ---
 
 # Premise
-Many different cryptocurrencies have masternodes that are insustainable and doesn't help in adaptability in the long run. Lonero's masternode system aims to be different and to create a creative way to limit network congestion on a blockchain network.
+Many different cryptocurrencies have masternodes that are insustainable and doesn't help in adaptability in the long run. Lonero's masternode system aims to be different and to create a creative way to limit network congestion on a blockchain network. We don't want a network centered around high fees or long transaction times. 
 
 ---
 
