@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Proofs
 
+There are a series of mathematical proofs in regards to the HashBolt masternode consensus and how it plays a role in Lonero's network. These proofs include proofs related to CHFs *"Cryptographic Hashing Functions"*, network latency, validation, and lattice-based proof systems. Also included are implementations of principals found in game theory, number theory and topological algebra.
+
 ---
 
 Material for MkDocs makes it easy to change the typeface of your project
