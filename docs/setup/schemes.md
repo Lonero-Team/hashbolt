@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Understanding Schemes
 
+The lock function for time locking LNR will have a cryptographic scheme and mechanism in and of itself.
+
 ---
 
 Material for MkDocs provides an excellent, client-side search implementation,
