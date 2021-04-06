@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Euclidean Geometry
 
+In regards to network efficiency and validity, we are applying many concepts related to Euclidean geometry similar to the Euclidean algorithm. These help in regards to well defined cryptographic calculations.
+
 ---
 
 A clear and concise navigation structure is an important aspect of good project 
