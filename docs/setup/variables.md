@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Considering Some Variables
 
+There are many variables to consider in regards to HashBolt's overall design and how everything within the network will be integrated. These include things such as time, latency, connectivity, etc. As noted, each masternode still acts as a node within the network
+
 ---
 
 As with any other service offered on the web, understanding how your project
