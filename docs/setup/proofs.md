@@ -18,6 +18,7 @@ There are a series of mathematical proofs in regards to the HashBolt masternode 
     LNR->>Network: Stays locked for certain period
     Network-->>You: Gets rewards
 ```
+
 ---
 
 Material for MkDocs makes it easy to change the typeface of your project
