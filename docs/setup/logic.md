@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # The Logic
 
+There is alot of logic regarding the mathematical and algorithmic principles related to HashBolt's overall design. There is also alot of formal logic in regards to HashBolt's design, including playing a role w/ network latency. 
+
 ---
 
 When installing Material for MkDocs, you immediately get access to _over 7.000 
