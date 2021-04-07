@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Masternodes and Consensus
 
+All masternodes along w/ general nodes participate as a consensus and try optimally avoiding invalidated blocks. How the network is effected in regards to latency and efficiency also plays a role in regards to the consensus agreement and timing. 
+
 ---
 
 Code blocks and examples are an essential part of technical project
