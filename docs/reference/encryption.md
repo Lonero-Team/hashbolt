@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Encryption and Cryptography Schemes
 
+The cryptography and encryption scheme of HashBolt is fairly complex in order to maximize security. Everything is built in a way where you don't have to trade-off security for optimization or speed and vice versa.
+
 ---
 
 Sometimes, it's desirable to group alternative content under different tabs,
