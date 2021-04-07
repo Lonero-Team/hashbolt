@@ -4,6 +4,8 @@ template: overrides/main.html
 
 # Software Defined Networking Integrations
 
+Lonero and its algorithms are modularly built and centered around a SDN approach to software development and integrations. Due to this, traditional management in regards to optimization, performance, resources and capabilities can be achieved.
+
 ---
 
 [MathJax][1] is a beautiful and accessible way to display _mathematical content_
