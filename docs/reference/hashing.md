@@ -4,7 +4,7 @@ template: overrides/main.html
 
 # Hashing
 
-Due to less network congestion, HashBolt is able to decrease delayed latency of Lonero's entire blockchain including its hashing algorithm speed.
+Due to less network congestion, HashBolt is able to decrease delayed latency of data in Lonero's entire blockchain. This helps with many things including the efficiency of Lonero's hashing algorithm and speed.
 
 ---
 
