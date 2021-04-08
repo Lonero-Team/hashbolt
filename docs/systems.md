@@ -4,7 +4,7 @@ template: overrides/main.html
 
 # Systems
 
-It is important to reiterate that all masternodes are still nodes within the network and part of the computational pipeline that makes up Lonero.
+It is important to reiterate that all masternodes are still nodes within the network and part of the computational pipeline that make up Lonero.
 
 ---
 
