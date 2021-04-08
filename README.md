@@ -10,3 +10,7 @@
   </strong>
 </p>
 
+
+**Docs Theme** \
+Theme Name: [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) \
+Theme License: **MIT** | *Copyright (c) 2016-2020* **Martin Donath**
