@@ -8,4 +8,4 @@ title: About
 
 ![HashBolt_UML](https://raw.githubusercontent.com/Lonero-Team/hashbolt/master/src/assets/images/HashBolt_UML.png)
 
-As noted, since you are locking LNR, you are rewarded incrementally on the basis of how you're contributing to network decongestion. Through this, HashBolt aims to be a stably growing system for network scalability.
+As noted, since you are locking LNR, you are rewarded incrementally on the basis of how you're contributing to network decongestion. We are implementing ways to track network load as well as load vs. expected load. Through this, HashBolt aims to be a stably growing system for network scalability.
