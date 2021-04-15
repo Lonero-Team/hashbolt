@@ -8,6 +8,10 @@ There are a series of mathematical proofs in regards to the HashBolt masternode 
 
 ---
 
+$$
+\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
+$$
+
 Material for MkDocs makes it easy to change the typeface of your project
 documentation, as it directly integrates with [Google Fonts][1]. Alternatively,
 fonts can be custom-loaded if self-hosting is preferred for data privacy reasons
