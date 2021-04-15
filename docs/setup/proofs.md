@@ -8,6 +8,8 @@ There are a series of mathematical proofs in regards to the HashBolt masternode 
 
 ---
 
+**Test: MATHJAX IS NOW ENABLED YA BOSS!!!**
+
 $$
 \operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
 $$
