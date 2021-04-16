@@ -4,7 +4,7 @@ template: overrides/main.html
 
 # The Logic
 
-There is alot of logic regarding the mathematical and algorithmic principles related to HashBolt's overall design. There is also alot of formal logic in regards to HashBolt's design, including playing a role w/ network latency. 
+There is alot of logic regarding the mathematical and algorithmic principles related to HashBolt's overall design. There is also alot of formal logic in regards to HashBolt's design, including playing a role w/ network latency. For example, some formal logic is obvious when looking into things such as network efficiency. **If** fees are incrementally lowered **while** network validated, **then** calculate fees lowered by X locked LNR and reward proportionally.
 
 ---
 
