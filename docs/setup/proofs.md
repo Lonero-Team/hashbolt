@@ -6,6 +6,16 @@ template: overrides/main.html
 
 There are a series of mathematical proofs in regards to the HashBolt masternode consensus and how it plays a role in Lonero's network. These proofs are related to CHFs *"Cryptographic Hashing Functions"*, network latency, validation, and lattice-based proof systems. Also included are implementations of principals found in game theory, number theory and topological algebra.
 
+$p(y|x) = \frac{p(y|x)}{p(x)}{p(x)}$
+
+For proof of time, we need to 
+
+$$
+\operatorname{hashbolt} reward=\{x\in LNR:{p(y|x)}*e_{F}}{\mbox{.}}
+$$
+
+The hashbolt reward is proportional to the total time locked LNR times the efficiency of fees estimated by your masternode contribution. 
+
 ---
 
 **Test: MATHJAX IS NOW ENABLED YA BOSS!!!**
