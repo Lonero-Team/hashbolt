@@ -14,4 +14,4 @@ $$
 \operatorname{HashBolt} reward=\{x\in LNR:{p(y|x)}*e_{F}}{\mbox{.}}
 $$
 
-The HashBolt reward is proportional to the total time locked LNR times the efficiency of fees estimated by your masternode contribution. Once the network is able to do the calculations through its more complex mathematical formulas, these metrics are set in place for you start receiving rewards proportional for your contribution.
+The HashBolt reward is proportional to the total time LNR is locked times the efficiency of fees estimated by your masternode contribution. Once the network is able to do the calculations through its more complex mathematical formulas, these metrics are set in place for you start receiving rewards proportional for your contribution.
